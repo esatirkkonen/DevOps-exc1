@@ -19,10 +19,4 @@ _Bold_
 
 (www.goole.fi) URL-osoite
 
-
---muutokset 2-16 rivillä--
-
---muutoksia lisää
-
-korjataan
-korjanta
+poistettu rivit
