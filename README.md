@@ -1,24 +1,19 @@
-# DevOps-exc1
-* Bullet point
-1.luettelo
-2.luetteolo 2
+# Example Express Application
 
-_Italic_
+[![Build Status](https://travis-ci.org/shapeshed/express_example.png?branch=master)](https://travis-ci.org/shapeshed/express_example)
 
-_Bold_
+This is an example [express][4] application to accompany the article [Creating a basic site with node.js and Express][1]. The site is [hosted on Heroku][6].
 
-*Italic*
+The article covers starting an Express 3.x.x app and deploying it to [Heroku][3]
 
-**Bold**
+There is a [further article][5] detailing how to continuously deploy Node.js applications using GitHub, Travis & Heroku.
 
-#Otsikko
+![Express Example][2]
 
-##2-tason otsikko
 
-###3-tason otsikko
-
-(www.goole.fi) URL-osoite
-
-poistettu rivit
-Testing
-fsdf
+[1]: http://shapeshed.com/creating-a-basic-site-with-node-and-express/
+[2]: http://shapeshed.com/images/articles/express_example.jpg
+[3]: http://heroku.com
+[4]: http://expressjs.com/
+[5]: http://shapeshed.com/continuously-deploy-node-apps-with-github-travis-and-heroku/
+[6]: http://express-tutorial.herokuapp.com/
